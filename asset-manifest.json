@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/album-mami/static/css/main.717ba285.css",
-    "main.js": "/album-mami/static/js/main.af8d66f4.js",
-    "static/media/pagina.png": "/album-mami/static/media/pagina.3eab08360959f0c2e1e3.png",
-    "index.html": "/album-mami/index.html",
-    "main.717ba285.css.map": "/album-mami/static/css/main.717ba285.css.map",
-    "main.af8d66f4.js.map": "/album-mami/static/js/main.af8d66f4.js.map"
+    "main.css": "/static/css/main.9d8b49b0.css",
+    "main.js": "/static/js/main.af8d66f4.js",
+    "static/media/pagina.png": "/static/media/pagina.3eab08360959f0c2e1e3.png",
+    "index.html": "/index.html",
+    "main.9d8b49b0.css.map": "/static/css/main.9d8b49b0.css.map",
+    "main.af8d66f4.js.map": "/static/js/main.af8d66f4.js.map"
   },
   "entrypoints": [
-    "static/css/main.717ba285.css",
+    "static/css/main.9d8b49b0.css",
     "static/js/main.af8d66f4.js"
   ]
 }
